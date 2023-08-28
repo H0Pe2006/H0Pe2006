@@ -2,13 +2,13 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=9e8cff&size=42&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile+Budy+%3AD;Settle+where+you+want...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=9e8cff&size=42&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile+Budy+%3AD;)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center"> 
 
-![image]([https://www.icegif.com/wp-content/uploads/2021/09/icegif-2.gif](https://giffiles.alphacoders.com/212/212613.gif))
+![image](https://giffiles.alphacoders.com/212/212613.gif)
  
  </div>
 
