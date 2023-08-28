@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e8cff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=9e8cff&size=42&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile+Budy+%3AD;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=ffffff&size=42&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile+Budy+%3AD;)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,8 +29,8 @@
 
  <h2> My Stats: </h2>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leuis0101&show_icons=true&count_private=true&hide_border=true&title_color=9e8cff&icon_color=9e8cff&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Felipe github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leuis0101&layout=compact&hide_border=true&title_color=9e8cff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leuis0101&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Felipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leuis0101&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
  
 </div>
@@ -46,4 +46,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e8cff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
