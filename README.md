@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
 <div align="center">
  
@@ -8,7 +8,7 @@
 
 <div align="center"> 
 
-![image](https://giffiles.alphacoders.com/212/212613.gif)
+![image](https://i.pinimg.com/originals/00/4c/14/004c1410fb570e6f9cb61587200caeb8.gif)
  
  </div>
 
@@ -46,4 +46,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
