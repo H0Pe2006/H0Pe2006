@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=710193&height=120&section=header"/>
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=ffffff&size=42&center=true&vCenter=true&width=1000&lines=Já+pode+Al+Mossar+?+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=ffffff&size=42&center=true&vCenter=true&width=1000&lines=O+Homi+por+Trás+do+Al+Mosso+;)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center"> 
 
-![image](https://i.pinimg.com/originals/00/4c/14/004c1410fb570e6f9cb61587200caeb8.gif)
+![image](https://i.pinimg.com/originals/e9/3a/7a/e93a7a46242ae2bc4f3506fd7e98047a.gif)
  
  </div>
 
@@ -46,4 +46,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=710193&height=120&section=footer"/>
