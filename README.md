@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=710193&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=ffffff&size=42&center=true&vCenter=true&width=1000&lines=O+Homi+por+Trás+do+Al+Mosso+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=ffffff&size=42&center=true&vCenter=true&width=1000&lines=Confidence+Test+be+like:+;)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center"> 
 
-![image](https://i.pinimg.com/originals/e9/3a/7a/e93a7a46242ae2bc4f3506fd7e98047a.gif)
+![image](https://media.tenor.com/qUd2T4szitkAAAAd/roblox-oof.gif)
  
  </div>
 
@@ -46,4 +46,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=710193&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
