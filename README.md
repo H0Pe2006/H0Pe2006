@@ -1,18 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34e100&height=120&section=header"/>
 
 <div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=ffffff&size=42&center=true&vCenter=true&width=1000&lines=Confidence+Test+be+like:+;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=300&pause=10&color=12E404&background=000000&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=1000&height=1000&separator=%3C&lines=initConnection%3C%40Server+32.3.211.0+%3CaccessRoot(-1);%3Cdisable.Verif(%23PassCheck);%3C++USER%3A+admin%3C++PASS%3A+************%3CallowAccess(TRUE);%3C%22penetrate%22+%3D%3D+%24.access(%24.Rqst+%3D+!0)%3Cfunction+d(c)+%7B%3C++var+d+%3D+b.console;%3C++f%5Bc%5D+%7C%7C+(f%5Bc%5D+%3D+!0%2C%3C++a.migrate.push(c)%2C+%3C++if+(!a.accessRqst)+%7B%3C++++(d.warn(%22BankTransfer%3A+%22+%2B+c)%3C++%7D%3C++a.migrateTrace+%26%26+d.trace()))%3C++a.migrateTrace+%26%26+d.trace()%3C%2F%2FCONNECTING+TO+THE+NETWORK%2F%2F%3C...%3C...%3C...%3C%2F%2FCONNECTION+SUCCESSFUL%2F%2F%3C%2F%2FINITIALIZING+DATA+ENCRYPTION%2F%2F%3C...%3C...%3C...%3C...%3C...%3C!!ENCRYPTION+FAILURE!!%3C...%3C...%3C%2F%2FRESTART+PROCESS%2F%2F%3C...%3C...%3C...%3C...)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center"> 
 
-![image](https://media.tenor.com/qUd2T4szitkAAAAd/roblox-oof.gif)
- 
- </div>
-
-<div align="center"> 
 
 <h2> Ferramentas que to usando: </h2>
  
@@ -46,4 +40,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34e100&height=120&section=footer"/>
