@@ -1,8 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34e100&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5493f2&height=120&section=header"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=300&pause=10&color=12E404&background=000000&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=1000&height=900&separator=%3C&lines=%40Server+32.3.211.0+%3CaccessRoot(-1);%3Cdisable.Verif(%23PassCheck);%3C++USER%3A+admin%3C++PASS%3A+************%3CallowAccess(TRUE);%3C%22penetrate%22+%3D%3D+%24.access(%24.Rqst+%3D+!0)%3Cfunction+d(c)+%7B%3C++var+d+%3D+b.console;%3C++f%5Bc%5D+%7C%7C+(f%5Bc%5D+%3D+!0%2C%3C++a.migrate.push(c)%2C+%3C++if+(!a.accessRqst)+%7B%3C++++(d.warn(%22BankTransfer%3A+%22+%2B+c)%3C++%7D%3C++a.migrateTrace+%26%26+d.trace())%3C++a.migrateTrace+%26%26+d.trace())%3C%2F%2FCONNECTING+TO+THE+NETWORK%2F%2F%3C...%3C...%3C...%3C%2F%2FCONNECTION+SUCCESSFUL%2F%2F%3C%2F%2FINITIALIZING+DATA+ENCRYPTION%2F%2F%3C...%3C...%3C...%3C...%3C...%3C!!SUCCESSFUL+ENCRYPTION!!%3C%2F%2FDO+YOU+WANT+TO+FINISH+THE+PROCESS%3F%2F%2F%3C-+YES(Y)%3C-+NO(N)%3C%3E%3C%3EN%3C%23%23+PROCESS+FINISHED+%23%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=43&pause=1000&color=F7F7F7&random=false&width=940&height=67&lines=Ahmmm...guys%3F+Is+That+a+Freddy+Fazbear%3F)](https://git.io/typing-svg)
+
+<img src="https://media.tenor.com/DTQKGfhkeN0AAAAd/five-nights-at-freddy-default-dance.gif">
 
 </div>
 
@@ -14,6 +16,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Html](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+
  
  </div>
  
@@ -23,21 +27,11 @@
 
  <h2> Meus Statis: </h2>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leuis0101&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Felipe github statis" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=H0Pe2006&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Felipe github statis" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H0Pe2006&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
  
 </div>
 
-<div align="center">
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leuis0101/H0Pe2006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leuis0101/H0Pe2006/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leuis0101/H0Pe2006/output/github-contribution-grid-snake.svg">
-</picture>
- 
-</div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34e100&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5493f2&height=120&section=footer"/>
