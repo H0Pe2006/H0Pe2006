@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5493f2&height=120&section=header"/>
-
 <div align="center">
 
 <img src="https://media.tenor.com/To-m-xomKToAAAAd/goose-default-dance-dancing.gif">
@@ -30,6 +28,3 @@
 </div>
  
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5493f2&height=120&section=footer"/>
